@@ -7,7 +7,7 @@
 #### We have dockerised the [Django Application](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Django%20Application) now you can spin up a container within seconds without worring about dependencies
 
 
-## 1. Introduction
+<!-- ## 1. Introduction
 This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Documentation).
 
 You can also watch [this Youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE) to get a better intuition about the project.
@@ -15,7 +15,7 @@ You can watch [this playList](https://www.youtube.com/watch?v=quJ8Rv84oA0&list=P
 
 You can read more about the project on <a href="https://abhijithjadhav.medium.com/deepfake-video-detection-using-long-short-term-memory-df3674f83ecc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 
-
+ -->
 ## 2. Directory Structure
 For ease of understanding the project is structured in below format
 ```
@@ -37,8 +37,8 @@ Deepfake_detection_using_deep_learning
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
-## 4. Demo 
-### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
+<!-- ## 4. Demo  -->
+<!-- ### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo -->
 
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
@@ -55,18 +55,18 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
-## 6. Contributors
+<!-- ## 6. Contributors
    1. [Abhijit Jadhav](https://www.linkedin.com/in/abhijitjadhav1998/)
    2. [Jay Patel](https://www.linkedin.com/in/jay-patel-396408155/)
    3. [Hitendra Patil](https://www.linkedin.com/in/hitendra-patil-95852613a/)
    4. [Abhishek Patange](https://www.linkedin.com/in/abhishek-patange-691406155/)
-   
-### Please reach out to me on [LinkedIn](https://www.linkedin.com/in/abhijitjadhav1998/) if you have doubts or you face any issues.
+    -->
+<!-- ### Please reach out to me on [LinkedIn](https://www.linkedin.com/in/abhijitjadhav1998/) if you have doubts or you face any issues. -->
 
 
 ## 7. License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<!--  -->
+<!-- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) -->
 
 ## 8. We welcome Open Source Contribution. 
 ### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
@@ -78,7 +78,7 @@ Deepfake_detection_using_deep_learning
 - [X] Dockerizing the app
 - [X] ~~Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs~~ : not possible as dlib uses CUDA internally
 
-## 9. Dont foget to Star⭐ this repo 😉 and Follow me on<a href="https://github.com/abhijitjadhav1998/">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<!-- ## 9. Dont foget to Star⭐ this repo 😉 and Follow me on<a href="https://github.com/abhijitjadhav1998/">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+ -->
 
