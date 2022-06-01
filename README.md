@@ -41,7 +41,7 @@ Deepfake_detection_using_deep_learning
 <!-- ### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo -->
 
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
+<!--   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" /> -->
 </p>
 
 ## 5. Our Results
