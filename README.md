@@ -29,12 +29,6 @@ Deepfake_detection_using_deep_learning
   <img width = 500 src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
-<!-- ## 4. Demo  -->
-<!-- ### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo -->
-
-<p align="center">
-<!--   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" /> -->
-</p>
 
 ## 3. Our Results
 
@@ -47,18 +41,28 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 01 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 01 | 100 | 93.58794|
 
-<!-- ## 6. Contributors
-   1. [Abhijit Jadhav](https://www.linkedin.com/in/abhijitjadhav1998/)
-   2. [Jay Patel](https://www.linkedin.com/in/jay-patel-396408155/)
-   3. [Hitendra Patil](https://www.linkedin.com/in/hitendra-patil-95852613a/)
-   4. [Abhishek Patange](https://www.linkedin.com/in/abhishek-patange-691406155/)
-    -->
-<!-- ### Please reach out to me on [LinkedIn](https://www.linkedin.com/in/abhijitjadhav1998/) if you have doubts or you face any issues. -->
 
-
+<!--  
 ## 4. License
-<!--  -->
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  -->
+
+## 4. Glimpse of our Application
+- Home page
+<img width="600" height="200" src="https://user-images.githubusercontent.com/81081105/182218376-ced21792-85b8-4db1-9ee4-5cbce708af0e.png">
+
+- Uploading video
+<img width="600" height="400" src="https://user-images.githubusercontent.com/81081105/182218810-5964ead9-2a9c-43b9-a56e-8d96c09e661a.png">
+
+- Frames Splitting and cropping face video
+<img width="600" height="200" src="https://user-images.githubusercontent.com/81081105/182219069-e9284edd-90ef-4375-8c9e-52cb9ac30ef4.png">
+
+- Result
+<img width="600" height="200" src="https://user-images.githubusercontent.com/81081105/182219417-701fe7dc-dc60-4673-813b-6fd39bf708c4.png">
+
+
+
+
 
 ## 5. Supporting Documents
 - ![Presentation](https://docs.google.com/presentation/d/1kFa-L47akB8ZIXdpN19zDk0U8xA9_QSMbd4zdVvNeuA/edit?usp=sharing)
