@@ -60,7 +60,12 @@ Deepfake_detection_using_deep_learning
 <!--  -->
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## 5. Contributors
+## 5. Supporting Documents
+- ![Presentation](https://docs.google.com/presentation/d/1kFa-L47akB8ZIXdpN19zDk0U8xA9_QSMbd4zdVvNeuA/edit?usp=sharing)
+- ![Report](https://docs.google.com/document/d/166_1DMP7pMpaxwVmAW0mqKVdZxv4gGxYAILef5yLQT8/edit?usp=sharing)
+- ![Abstract]()
+
+## 6. Contributors
 - ![Mansi Mishra](https://github.com/0904-mansi)
 - ![Sanskriti Harmukh](https://github.com/SanskritiHarmukh)
 - ![Satyam Jain](https://github.com/satyam298)
