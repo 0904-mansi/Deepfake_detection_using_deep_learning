@@ -60,5 +60,8 @@ Deepfake_detection_using_deep_learning
 <!--  -->
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-
-
+## 5. Contributors
+- ![Mansi Mishra](https://github.com/0904-mansi)
+- ![Sanskriti Harmukh](https://github.com/SanskritiHarmukh)
+- ![Satyam Jain](https://github.com/satyam298)
+- ![Archit Chawda]()
