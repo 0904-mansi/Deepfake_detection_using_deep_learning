@@ -26,7 +26,7 @@ Deepfake_detection_using_deep_learning
     -->
 ## 2. System Architecture
 <p align="center">
-  <img width = 500 src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
+  <img width = 500 src="https://user-images.githubusercontent.com/81081105/182219807-6b564204-b8f4-42bd-a2f7-b9f077c846a3.png">
 </p>
 
 
